@@ -28,9 +28,6 @@ Radar avanzado estilo militar para servidores FiveM (compatible con ESX/QBCore).
 1. Descarga o clona este repositorio
 2. Coloca la carpeta (por ejemplo `radar-aeropuerto`) en la carpeta `resources/` de tu servidor
 3. Añade a tu `server.cfg`:
-
-## ensure radar-aeropuerto
-
 4. Configura todo en `config.lua` (coordenadas, radios, jobs, intervalos, colores de blips, etc.)
 5. Reinicia el recurso o el servidor
 
@@ -63,4 +60,5 @@ Comandos útiles (para jugadores con acceso)
 /transponder on → Activar transponder
 
 /transponder off → Apagar transponder (aparecerás como desconocido)
+
 
