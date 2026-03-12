@@ -4,9 +4,9 @@ Radar avanzado estilo militar para servidores FiveM (compatible con ESX/QBCore).
 
 ![Vista previa del radar](https://r2.fivemanage.com/O5yfhtPtAV4DBIWUnbt2S/Capturadepantalla2026-03-12074658.png) 
 
-[Vista previa del radar](https://r2.fivemanage.com/O5yfhtPtAV4DBIWUnbt2S/Capturadepantalla2026-03-12075010.png) 
+![Vista previa del radar](https://r2.fivemanage.com/O5yfhtPtAV4DBIWUnbt2S/Capturadepantalla2026-03-12075010.png) 
 
-[Vista previa del hud](https://r2.fivemanage.com/O5yfhtPtAV4DBIWUnbt2S/Capturadepantalla2026-03-12075058.png)
+![Vista previa del hud](https://r2.fivemanage.com/O5yfhtPtAV4DBIWUnbt2S/Capturadepantalla2026-03-12075058.png)
 
 ## Características principales
 
@@ -60,5 +60,6 @@ Comandos útiles (para jugadores con acceso)
 /transponder on → Activar transponder
 
 /transponder off → Apagar transponder (aparecerás como desconocido)
+
 
 
